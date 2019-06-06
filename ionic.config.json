@@ -1,0 +1,7 @@
+{
+  "name": "msg-broadcast-scheduler",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

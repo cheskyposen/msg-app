@@ -1,0 +1,27 @@
+.user_name {
+  color: #abafae;
+}
+.message {
+  padding: 10px 20px !important;
+  transition: all 250ms ease-in-out !important;
+  border-radius: 40px !important;
+  margin-bottom: 4px !important;
+}
+.my_message {
+  background: #3171e0 !important;
+  color: #FFF !important;
+  border-bottom-right-radius: 0 !important;
+}
+.other_message {
+  background: #dcdcdc !important;
+  color: #000 !important;
+  border-bottom-left-radius: 0 !important;
+}
+.time {
+  color: #44d700;
+  float: right;
+  font-size: small;
+}
+.message_row {
+  background-color: #fff;
+}
